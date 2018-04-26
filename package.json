@@ -73,8 +73,6 @@
       "cordova-plugin-dreamover-uid": {},
       "cordova-plugin-android-permissions": {}
     },
-    "platforms": [
-      "android"
-    ]
+    "platforms": []
   }
 }
